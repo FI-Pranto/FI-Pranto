@@ -1,6 +1,12 @@
+<h1 align=center>FI Pranto</h1>
+
+
+
+
+
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+FI+Pranto;ASP.NET+Core+MVC+Developer;Deep+Learning+Engineer;Game+Developer;Competitive+Programmer;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+<a href="https://github.com/FI-Pranto/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?lines=ASP.NET+Core+Developer;Deep+Learning+Engineer;Game+Developer;Competitive+Programmer;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
 </a>
 
 </p>
