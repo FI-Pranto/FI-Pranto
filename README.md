@@ -62,8 +62,8 @@ Feel free to connect with me if you're interested in discussing development, AI,
   <a href="https://github.com/FI-Pranto/binary-brains">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FI-Pranto&repo=binary-brains&theme=react" alt="binary-brains" />
   </a>
-    <a href="https://github.com/FI-Pranto/Learnathon-3.0">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FI-Pranto&repo=Learnathon-3.0&theme=react" alt="Learnathon-3.0" />
+    <a href="https://github.com/FI-Pranto/InventoryManager">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FI-Pranto&repo=InventoryManager&theme=react" alt="InventoryManager" />
   </a>
   <a href="https://github.com/FI-Pranto/WhiteLagoon">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FI-Pranto&repo=WhiteLagoon&theme=react" alt="WhiteLagoon" />
